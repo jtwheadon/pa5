@@ -4,10 +4,4 @@
     android:layout_height="match_parent"
     android:columnCount="1">
 
-    <Button
-        android:id="@+id/newNoteBtn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/add_note_btn"/>
-
 </GridLayout>
